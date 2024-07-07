@@ -1,0 +1,23 @@
+.background-banner{
+    background-image: linear-gradient(
+        rgb(24, 21, 21),
+        rgb(10, 10, 10)), url(images/background.jpg);
+        max-height: 100%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}
+.background{
+    background-image: url(images/background.jpg);
+}
+.home-content{
+    height: 550px;
+}
+.home-content h1{
+    color: white;
+    font-size: 3.5rem;
+    font-weight: bold;
+    padding-left: 55px;
+}
+.home-content p{
+    font-size: 18px;
+}
